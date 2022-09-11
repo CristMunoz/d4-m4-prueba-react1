@@ -1,0 +1,18 @@
+.container-app {
+  background-color: #282c34;
+  color: white;
+  min-height: 100vh;
+  padding: 3.5em;
+}
+
+.table-color {
+  background-color: #282c34;
+}
+
+.table-row:hover {
+  background-color: #535860;
+  color: wheat;
+  cursor: pointer;
+}
+
+
